@@ -1,4 +1,4 @@
-export const SITENAME = "meetesh06's blog generator :)";
+export const SITENAME = "easyNextBlog";
 
 export const lightTheme = {
   palette: {
@@ -24,17 +24,20 @@ export const darkTheme = {
 
 export const leftSide = {
   image: "/blog-pic.webp",
-  name: "Edit this in config.js",
-  about: "Eu eiusmod aute amet incididunt magna exercitation laborum est fugiat fugiat voluptate fugiat ex nisi.Laboris ad elit nostrud magna sint sit.",
+  name: "meetesh06.github.io",
+  about: "This is a free blog generator template by me, check it out on github",
   getInTouchText: "Always looking forward to new emails :)",
   contactLinks: [
-    ["#","Email"],
-    ["#","LinkedIn"],
+    ["https://meetesh06.github.io/","My Homepage"],
+    ["#","This Project"],
   ]
 }
 
 export const TITLE_BLOG = "My Demo Blog"
 export const DESCRIPTION_BLOG = "Id qui irure ipsum deserunt adipisicing voluptate fugiat ad ut magna.Id id pariatur quis adipisicing Lorem proident magna tempor et Lorem velit.Reprehenderit sint culpa qui dolore consequat enim eiusmod nulla sit ex duis."
+
+export const GTAG_ADDR = undefined
+export const GTAG_SCRIPT = undefined
 
 // export const GTAG_ADDR = "https://www.googletagmanager.com/gtag/js?id=YOUR-GTAG-ID"
 // export const GTAG_SCRIPT = `

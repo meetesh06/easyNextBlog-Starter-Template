@@ -31,7 +31,7 @@ const content = [
     imageUri: undefined,
     href: undefined,
     id: undefined,
-    text: "Compilers, JITs, Programming Languages, Security",
+    text: "Pariatur id ipsum magna id Lorem esse voluptate consequat.",
     textList: undefined,
     created: undefined
   },
@@ -42,7 +42,7 @@ const content = [
     imageUri: undefined,
     href: undefined,
     id: undefined,
-    text: "Internship opportunities as a Researcher",
+    text: "Velit amet dolor cupidatat amet ipsum nisi occaecat cillum elit ullamco eiusmod Lorem.",
     textList: undefined,
     created: undefined
   },
@@ -66,11 +66,11 @@ const content = [
     id: undefined,
     text: undefined,
     textList: [
-      ["C, C++, Java", "Experience in large real world projects"],
-      ["React/Native, JS, R", "A lot of fun projects like this site. Worked on a JIT compiler for R called Rsh."],
-      ["Scripting", "Routinely use scripting languages like python, bash, JS, etc."],
-      ["Databases", "Am comfortable in mongo, SQL, etc."],
-      ["Teaching Assistant", "CS502 Compiler Design, C302 Paradigms of Programming"],
+      ["Mollit, velit, laborea", "Ut nostrud sunt ad aute culpa nostrud non est excepteur non eiusmod."],
+      ["Laboris anim", "Proident in minim laborum cillum ea sit sint aute eiusmod officia exercitation."],
+      ["Elit, quis, pariatur", "Irure elit nulla eu cillum aliqua magna cupidatat ut culpa anim."],
+      ["voluptate, dolor, dolore", "Voluptate pariatur excepteur occaecat laborum minim ex in."],
+
     ],
     created: undefined
   },
@@ -105,11 +105,9 @@ const content = [
     id: undefined,
     text: undefined,
     textList: [
-      ["2020-2023: M.S (by Research) CSE", "Sunt duis exercitation incididunt adipisicing quis."],
-      ["2020: GATE CSE", "Commodo do minim dolor"],
-      ["2016-2020: B.Tech CSE", "Mollit commodo amet"],
-      ["2014-2016: High School", "Aliqua sunt exercitation dolor."],
-      ["2004-2014: Primary School", "Nisi et eu mollit aliquip labore"],
+      ["2020-2023: Veniam adipisicing", "Sunt duis exercitation incididunt adipisicing quis."],
+      ["2014-2016: Labore velit esse", "Aliqua sunt exercitation dolor."],
+      ["2004-2014: Irure nulla", "Nisi et eu mollit aliquip labore"],
     ],
     created: undefined
   },
