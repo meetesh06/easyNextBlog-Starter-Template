@@ -24,7 +24,7 @@ export const darkTheme = {
 
 export const leftSide = {
   image: "/blog-pic.webp",
-  name: "meetesh06.github.io",
+  name: "meetesh06",
   about: "This is a free blog generator template by me, check it out on github",
   getInTouchText: "Always looking forward to new emails :)",
   contactLinks: [
