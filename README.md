@@ -1,5 +1,3 @@
-1. Update config.js
+# This is a template for the easyNextBlog
 
-2. Update generate.js
-
-3. Update pages/index.js
+Todo write the tutorial...
